@@ -1,9 +1,8 @@
-👋 Hi, I’m @sawdamohidin  
-🌱 I’m into coding, design, and networks.  
-🧠 Learning HTML, CSS, JS, and software engineering.  
-🤝 Open to small collabs or low-key projects.  
-📫 Reach me: maryanbarre189@gmail.com
-😊 Pronouns: she/her  
+ Hi, I’m @sawda  I’m into coding, design, and networks.  
+ Learning HTML, CSS, JS, and software engineering.  
+ Open to small collabs or low-key projects.  
+ Reach me: maryanbarre189@gmail.com
+ Pronouns: she  
 
 
 <!---
